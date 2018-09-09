@@ -1,0 +1,104 @@
+TRAINING-1
+
+Job Name:	streamjob2502627998959965457.jar
+User Name:	chaikesh
+Queue:	default
+State:	SUCCEEDED
+Uberized:	false
+Submitted:	Sun Sep 09 15:59:52 IST 2018
+Started:	Sun Sep 09 15:59:32 IST 2018
+Finished:	Sun Sep 09 16:02:14 IST 2018
+Elapsed:	2mins, 41sec
+Diagnostics:	
+Average Map Time	1mins, 44sec
+Average Shuffle Time	12sec
+Average Merge Time	8sec
+Average Reduce Time	36sec
+
+Total time spent by all map tasks (ms)=209317/2000     = 104.6585 sec
+Total time spent by all reduce tasks (ms)=58212/1000   = 58.212   sec
+
+TRAINING-2
+
+Job Name:	streamjob6317784313452260492.jar
+User Name:	chaikesh
+Queue:	default
+State:	SUCCEEDED
+Uberized:	false
+Submitted:	Sun Sep 09 16:15:30 IST 2018
+Started:	Sun Sep 09 16:15:10 IST 2018
+Finished:	Sun Sep 09 16:17:26 IST 2018
+Elapsed:	2mins, 16sec
+Diagnostics:	
+Average Map Time	1mins, 43sec
+Average Shuffle Time	10sec
+Average Merge Time	4sec
+Average Reduce Time	18sec
+
+Total time spent by all map tasks (ms)=207645/2000     = 103.8225 sec
+Total time spent by all reduce tasks (ms)=67319/2000   = 33.6595  sec
+
+TRAINING-5
+
+Job Name:	streamjob1380977784799941745.jar
+User Name:	chaikesh
+Queue:	default
+State:	SUCCEEDED
+Uberized:	false
+Submitted:	Sun Sep 09 16:20:07 IST 2018
+Started:	Sun Sep 09 16:19:47 IST 2018
+Finished:	Sun Sep 09 16:22:03 IST 2018
+Elapsed:	2mins, 16sec
+Diagnostics:	
+Average Map Time	1mins, 47sec
+Average Shuffle Time	25sec
+Average Merge Time	1sec
+Average Reduce Time	8sec
+
+
+Total time spent by all map tasks (ms)=214015/2000     = 107.0075 sec
+Total time spent by all reduce tasks (ms)=176582/5000  = 35.3164  sec
+
+TRAINING-8
+
+
+Job Name:	streamjob5443761180394095151.jar
+User Name:	chaikesh
+Queue:	default
+State:	SUCCEEDED
+Uberized:	false
+Submitted:	Sun Sep 09 16:23:52 IST 2018
+Started:	Sun Sep 09 16:23:31 IST 2018
+Finished:	Sun Sep 09 16:25:41 IST 2018
+Elapsed:	2mins, 10sec
+Diagnostics:	
+Average Map Time	1mins, 45sec
+Average Shuffle Time	18sec
+Average Merge Time	1sec
+Average Reduce Time	6sec
+
+
+Total time spent by all map tasks (ms)=211409/2000     = 105.7045 sec
+Total time spent by all reduce tasks (ms)=208758/8000  = 26.09475 sec
+
+
+TRAINING-10
+
+
+Job Name:	streamjob4191274758922573952.jar
+User Name:	chaikesh
+Queue:	default
+State:	SUCCEEDED
+Uberized:	false
+Submitted:	Sun Sep 09 16:29:33 IST 2018
+Started:	Sun Sep 09 16:29:13 IST 2018
+Finished:	Sun Sep 09 16:31:21 IST 2018
+Elapsed:	2mins, 7sec
+Diagnostics:	
+Average Map Time	1mins, 45sec
+Average Shuffle Time	14sec
+Average Merge Time	1sec
+Average Reduce Time	5sec
+
+Total time spent by all map tasks (ms)=210466/2000     = 105.233  sec
+Total time spent by all reduce tasks (ms)=208491/10000 = 20.8491  sec
